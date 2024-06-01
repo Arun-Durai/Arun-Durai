@@ -1,6 +1,7 @@
-# Hola! , I'm [ARUN] 👋
+# Hola! 
+I'm ARUN 👋
 
-![Header](https://your-image-url.com/header-image)
+([https://assets.leetcode.com/users/avatars/avatar_1688624415.png])
 
 ## 🚀 About Me
 
@@ -47,8 +48,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ### 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ARUN-DURAI.ARUN-DURAI)
+(https://visitor-badge.glitch.me/badge?page_id=ARUN-DURAI.ARUN-DURAI)
 
 
 
