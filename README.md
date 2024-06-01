@@ -5,7 +5,7 @@ This is ARUN 👋
 I'm a passionate software developer with a love for creating innovative solutions.
 
 
-<img align="right" src="https://backiee.com/static/wallpapers/1000x563/386741.jpg" width="300"/>
+
 
 - 🌍 Coimbatore
 - 🌱 Currently working with C#, ASP.NET, ASP.NET CORE, CORE MVC, BLAZOR
