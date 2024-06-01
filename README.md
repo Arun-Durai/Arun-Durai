@@ -46,7 +46,6 @@ I'm a passionate software developer with a love for creating innovative solution
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arun_durai)
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ARUN-DURAI.ARUN-DURAI)
 
 
 
