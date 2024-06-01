@@ -1,12 +1,11 @@
 # Hola! 
-I'm ARUN 👋
 
-![Header](https://assets.leetcode.com/users/avatars/avatar_1688624415.png)
-
-
-## 🚀 About Me
+This is ARUN 👋
 
 I'm a passionate software developer with a love for creating innovative solutions.
+
+
+<img align="right" src="https://backiee.com/static/wallpapers/1000x563/386741.jpg" width="300"/>
 
 - 🌍 Coimbatore
 - 🌱 Currently working with C#, ASP.NET, ASP.NET CORE, CORE MVC, BLAZOR
@@ -23,6 +22,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
