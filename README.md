@@ -8,7 +8,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 
 - 🌍 Coimbatore
-- 🌱 Currently working with SQL SERVER, C#, ASP.NET, ASP.NET CORE, WEB API, MVC, BLAZOR, HTML, CSS AND ANGULAR
+- 🌱 Currently working with C#, ASP.NET CORE, API Developmment, SQL SERVER, BLAZOR, HTML, CSS AND ANGULAR
 - 📫 Reach me via email (arunkottaidurai@gmail.com)
   
 
