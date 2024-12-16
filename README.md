@@ -38,6 +38,10 @@ I'm a passionate software developer with a love for creating innovative solution
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-durai&layout=compact&langs_count=10&hide=html&theme=dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/arun_durai?theme=dark)
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kottaidurai-387927210/)
