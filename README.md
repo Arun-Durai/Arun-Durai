@@ -5,9 +5,6 @@ This is ARUN 👋
 I'm a passionate software developer with a love for creating innovative solutions.
 
 
-
-
-- 🌍 Coimbatore
 - 🌱 Currently working with C#, ASP.NET CORE, API Developmment, SQL SERVER, BLAZOR, HTML, CSS AND ANGULAR
 - 📫 Reach me via email (arunkottaidurai@gmail.com)
   
@@ -38,7 +35,6 @@ I'm a passionate software developer with a love for creating innovative solution
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-durai&layout=compact&langs_count=10&hide=html&theme=dark)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arun_durai?theme=dark)
 
